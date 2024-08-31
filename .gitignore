@@ -1,0 +1,4 @@
+__pycache__/
+.flaskenv
+migrations/
+websocket.py
